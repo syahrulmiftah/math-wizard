@@ -1,0 +1,1 @@
+print(len("If you're new here, I'm the Math Wizard, and this channel is all about creating interesting stuff with mathematics."))
